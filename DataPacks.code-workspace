@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "Flat Overworld",
+			"path": "./FlatOverworld"
+		},
+		{
+			"name": "Horse Race",
+			"path": "./HorseRace"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"SPGoding.datapack-language-server"
+		]
+	}
+}
